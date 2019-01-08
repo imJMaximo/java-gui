@@ -1,8 +1,8 @@
 import javax.swing.JFrame;
 
-public class BasicELements{
+public class BasicElements{
 
-	public static void public static void main(String[] args) {
+	public static void main(String[] args) {
 		JFrame myFrame = new JFrame();
 		myFrame.setVisible(true);
 		myFrame.setSize(900, 600);
